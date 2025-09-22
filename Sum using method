@@ -1,0 +1,17 @@
+import java.util.*
+class meth{
+int display(int x,int y)
+{
+ int res;
+res=x+y;
+return res;}}
+class main{
+public static void main (String args[])
+{
+int res;
+Scanner s=new Scanner (System.in);
+int a=s.nextInt();
+int b=s.mextInt();
+meth m=new meth();
+res=display(int a,int b);
+}}
